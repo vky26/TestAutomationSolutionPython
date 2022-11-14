@@ -1,0 +1,29 @@
+{
+	"defaultproperties":{
+		"hotelBookingURL":"https://www.clock-software.com/demo-clockpms/index.html",
+		"emailId": "dummy@gail.com",
+		"lastName": "Kholi",
+		"firstName": "Virat",
+		"phoneNumber": "07897897891",
+		"numberOfNights": "4",
+		"numberOfAdults": "2",
+		"numberOfChildren": "0"
+	},
+
+	"creditCardDetails": {
+		"number": "4929 0000 0000 6",
+		"brand": "VISA",
+		"expiryMonth": "05",
+		"expiryYear": "2025"
+	},
+
+	"billingAddressDetails":{
+		"addLine":"10 Park Hill Bvld",
+		"zip":"43015",
+		"city":"Rio",
+		"state":"Sussex",
+		"country": "United Kingdom"
+	}
+
+
+}
